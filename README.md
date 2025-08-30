@@ -15,9 +15,9 @@ This project is designed as a simple way to explore one of the most classic cryp
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="assets/screenshot1.png" alt="Main Page" width="250"/>
-  <img src="assets/screenshot2.png" alt="Encryption Page" width="250"/>
-  <img src="assets/screenshot3.png" alt="Decryption Page" width="250"/>
+  <img src="assets/Screenshot0.png" alt="Main Page" width="250"/>
+  <img src="assets/Screenshot1.png" alt="Encryption Page" width="250"/>
+  <img src="assets/Screenshot2.png" alt="Decryption Page" width="250"/>
 </p>
 
 ---
@@ -60,7 +60,7 @@ Caesar-Cipher-GUI/
 Created with ❤️ by Fadil 
 - 🎓 Physics Student @ Universitas Indonesia
 - 🔬 Interested in AI, Computation, and Technology
-- linkedin.com/in/fadil-nurmaulid
+- [Linkedin](linkedin.com/in/fadil-nurmaulid)
 
 
    
