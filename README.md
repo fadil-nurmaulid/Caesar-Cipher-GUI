@@ -60,7 +60,7 @@ Caesar-Cipher-GUI/
 Created with ❤️ by Fadil 
 - 🎓 Physics Student @ Universitas Indonesia
 - 🔬 Interested in AI, Computation, and Technology
-- [Linkedin](linkedin.com/in/fadil-nurmaulid)
+- [Linkedin](www.linkedin.com/in/fadil-nurmaulid)
 
 
    
